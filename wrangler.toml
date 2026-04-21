@@ -1,0 +1,6 @@
+name = "smishing-red-flag"
+main = "index.js"
+compatibility_date = "2026-04-10"
+
+[ai]
+binding = "AI"
