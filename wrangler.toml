@@ -1,6 +1,7 @@
 name = "smishing-red-flag"
 main = "index.js"
 compatibility_date = "2026-04-10"
+account_id = "2d35926d788c4fac8b00e362a4734323"
 
 [ai]
 binding = "AI"
